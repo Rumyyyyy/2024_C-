@@ -17,7 +17,7 @@ namespace project_2
         public int Width { // 속성 (속성의 이름은 대문자로 시작한다)
             get { return width; } 
             set {
-                if (width > 0) width = value; 
+                if (value > 0) width = value; 
                 else Console.WriteLine("너비는 자연수를 입력해 주세요.");
             }
         }
@@ -28,7 +28,7 @@ namespace project_2
             get { return height; }
             set
             {
-                if (height > 0) height = value;
+                if (value > 0) height = value;
                 else Console.WriteLine("높이는 자연수를 입력해 주세요.");
             }
         }

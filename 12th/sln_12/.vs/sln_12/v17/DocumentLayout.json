@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study_A\\12th\\sln_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B5AF51-C648-4769-9A94-64DBD032E6B1}|projefct_2\\projefct_2.csproj|d:\\study_a\\12th\\sln_12\\projefct_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B5AF51-C648-4769-9A94-64DBD032E6B1}|projefct_2\\projefct_2.csproj|solutionrelative:projefct_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A27A5E-BE26-4084-80DA-76165C08BFD0}|project_1\\project_1.csproj|d:\\study_a\\12th\\sln_12\\project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A27A5E-BE26-4084-80DA-76165C08BFD0}|project_1\\project_1.csproj|solutionrelative:project_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A27A5E-BE26-4084-80DA-76165C08BFD0}|project_1\\project_1.csproj|d:\\study_a\\12th\\sln_12\\project_1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A27A5E-BE26-4084-80DA-76165C08BFD0}|project_1\\project_1.csproj|solutionrelative:project_1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A27A5E-BE26-4084-80DA-76165C08BFD0}|project_1\\project_1.csproj|d:\\study_a\\12th\\sln_12\\project_1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A27A5E-BE26-4084-80DA-76165C08BFD0}|project_1\\project_1.csproj|solutionrelative:project_1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study_A\\12th\\sln_12\\projefct_2\\Program.cs",
+              "RelativeDocumentMoniker": "projefct_2\\Program.cs",
+              "ToolTip": "D:\\Study_A\\12th\\sln_12\\projefct_2\\Program.cs",
+              "RelativeToolTip": "projefct_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:39:42.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study_A\\12th\\sln_12\\project_1\\Program.cs",
+              "RelativeDocumentMoniker": "project_1\\Program.cs",
+              "ToolTip": "D:\\Study_A\\12th\\sln_12\\project_1\\Program.cs",
+              "RelativeToolTip": "project_1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T00:05:20.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "D:\\Study_A\\12th\\sln_12\\project_1\\Dog.cs",
+              "RelativeDocumentMoniker": "project_1\\Dog.cs",
+              "ToolTip": "D:\\Study_A\\12th\\sln_12\\project_1\\Dog.cs",
+              "RelativeToolTip": "project_1\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:12:03.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "D:\\Study_A\\12th\\sln_12\\project_1\\Cat.cs",
+              "RelativeDocumentMoniker": "project_1\\Cat.cs",
+              "ToolTip": "D:\\Study_A\\12th\\sln_12\\project_1\\Cat.cs",
+              "RelativeToolTip": "project_1\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T02:12:13.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
