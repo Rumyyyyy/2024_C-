@@ -1,0 +1,7 @@
+D:\Study_A\14th\sln_14\UnnamedDelegate\bin\Debug\UnnamedDelegate.exe.config
+D:\Study_A\14th\sln_14\UnnamedDelegate\bin\Debug\UnnamedDelegate.exe
+D:\Study_A\14th\sln_14\UnnamedDelegate\bin\Debug\UnnamedDelegate.pdb
+D:\Study_A\14th\sln_14\UnnamedDelegate\obj\Debug\UnnamedDelegate.csproj.AssemblyReference.cache
+D:\Study_A\14th\sln_14\UnnamedDelegate\obj\Debug\UnnamedDelegate.csproj.CoreCompileInputs.cache
+D:\Study_A\14th\sln_14\UnnamedDelegate\obj\Debug\UnnamedDelegate.exe
+D:\Study_A\14th\sln_14\UnnamedDelegate\obj\Debug\UnnamedDelegate.pdb

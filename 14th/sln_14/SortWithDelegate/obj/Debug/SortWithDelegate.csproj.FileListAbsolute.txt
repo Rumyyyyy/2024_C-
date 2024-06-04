@@ -1,0 +1,7 @@
+D:\Study_A\14th\sln_14\SortWithDelegate\bin\Debug\SortWithDelegate.exe.config
+D:\Study_A\14th\sln_14\SortWithDelegate\bin\Debug\SortWithDelegate.exe
+D:\Study_A\14th\sln_14\SortWithDelegate\bin\Debug\SortWithDelegate.pdb
+D:\Study_A\14th\sln_14\SortWithDelegate\obj\Debug\SortWithDelegate.csproj.AssemblyReference.cache
+D:\Study_A\14th\sln_14\SortWithDelegate\obj\Debug\SortWithDelegate.csproj.CoreCompileInputs.cache
+D:\Study_A\14th\sln_14\SortWithDelegate\obj\Debug\SortWithDelegate.exe
+D:\Study_A\14th\sln_14\SortWithDelegate\obj\Debug\SortWithDelegate.pdb
